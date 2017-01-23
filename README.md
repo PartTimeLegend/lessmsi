@@ -1,5 +1,7 @@
 #<wiki:gadget url="http://www.ohloh.net/p/480392/widgets/project_partner_badge.xml" height="53" border="0"/>
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/39175464dbd341e98bb6efc320e899f2)](https://www.codacy.com/app/PartTimeLegend/lessmsi?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/lessmsi&utm_campaign=badger)
+
 This is a utility with a graphical user interface and a command line interface that can be used to view and extract the contents of an MSI file. 
 
 To extract from the command line:
